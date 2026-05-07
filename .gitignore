@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+tsconfig.tsbuildinfo
+.env*
+!.env.example
+*.log
+.DS_Store
+design.md
+Website script .docx
